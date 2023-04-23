@@ -1,14 +1,25 @@
+<img src="https://github.com/trademutual-org/trademutual-icons/blob/main/Custom%20Size%20GC%CC%A7o%CC%82%20124.png"  style="width=100%; height=50%;"/>
 <h1 align="center">Hi 👋, Welcome to TradeMutual</h1>
 
 ![](https://komarev.com/ghpvc/?username=trademutual-org&label=PROFILE+VIEWS&style=flat-square	)
+
 ## 🧪 Project Description
  *TradeMutual is a retail-oriented cryptocurrency fund that focuses on creating wealth for its investors and token holders by trading bluechip cryptocurrencies. It makes crypto trading as easy as making a stablecoin deposit. With TradeMutual, an average retail investor can gain from crypto trading without learning the complicated trading strategies and without spending the intense attention that crypto trading requires. TradeMutual aims to establish itself as a reputed crypto trading fund that will be known for its trustworthiness, transparency, superior returns, and long-term vision.*
 <br/>
 <br/>
- Checkout our 📄[**Litepaper**](https://docs.trademutual.org/)
-<br/>
-<br/>
- 👯 Join in our journey on [**Discord**](https://discord.gg/rVYhWDDy6B)
+ 📄 Litepaper
+* Checkout our [Litepaper](https://docs.trademutual.org/) to learn more about TradeMutual.
 
+ 🚀 Join in our journey and stay up to date with the latest updates by following us on our social media channels:
+ <br/>
+ 
+* [**Discord**](https://discord.gg/rVYhWDDy6B)
+* [Twitter](https://twitter.com/TradeMutual)
+* [Medium](https://medium.com/@trademutualorg)
+* [Telegram](https://t.me/TradeMutual_Community)
+
+We regularly post news, updates, and insights on our social media channels, so be sure to follow us to stay in the loop. Join our growing community and help us shape the future of ***trademutual*** .
 <br/>
-✍️Checkout our [Website](https://www.trademutual.org/)
+
+
+💻 To learn more about our project, visit our website at [trademutual.org](https://www.trademutual.org/)
