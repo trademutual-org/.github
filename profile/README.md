@@ -1,5 +1,5 @@
+![icon](https://user-images.githubusercontent.com/98878754/233867404-1e181fea-c9db-47c8-b7f9-de24a5ec360b.png)
 
-![icon](https://github.com/trademutual-org/.github/blob/main/icon/Custom%20Size%20GC%CC%A7o%CC%82%20124.png)
 <h1 align="center">Hi 👋, Welcome to TradeMutual</h1>
 
 ![](https://komarev.com/ghpvc/?username=trademutual-org&label=PROFILE+VIEWS&style=flat-square	)
