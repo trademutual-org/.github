@@ -1,4 +1,4 @@
-<img src="https://github.com/trademutual-org/trademutual-icons/blob/main/Custom%20Size%20GC%CC%A7o%CC%82%20124.png"  style="width=100%; height=50%;"/>
+<img src="../icon/Custom Size GÇô 124.png"  style="width=100%; height=50%;"/>
 <h1 align="center">Hi 👋, Welcome to TradeMutual</h1>
 
 ![](https://komarev.com/ghpvc/?username=trademutual-org&label=PROFILE+VIEWS&style=flat-square	)
