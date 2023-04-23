@@ -15,9 +15,9 @@
  <br/>
  
 * [**Discord**](https://discord.gg/rVYhWDDy6B)
-* [Twitter](https://twitter.com/TradeMutual)
-* [Medium](https://medium.com/@trademutualorg)
-* [Telegram](https://t.me/TradeMutual_Community)
+* [**Twitter**](https://twitter.com/TradeMutual)
+* [**Medium**](https://medium.com/@trademutualorg)
+* [**Telegram**](https://t.me/TradeMutual_Community)
 
 We regularly post news, updates, and insights on our social media channels, so be sure to follow us to stay in the loop. Join our growing community and help us shape the future of ***trademutual*** .
 <br/>
