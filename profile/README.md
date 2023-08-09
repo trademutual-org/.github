@@ -22,5 +22,4 @@
 We regularly post news, updates, and insights on our social media channels, so be sure to follow us to stay in the loop. Join our growing community and help us shape the future of ***trademutual*** .
 <br/>
 
-
 💻 To learn more about our project, visit our website at [trademutual.org](https://www.trademutual.org/)
